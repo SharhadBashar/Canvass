@@ -26,6 +26,7 @@ Not proud of:<br />
 
 
 Design Decisions:<br />
+Seperating the data by Device ID while reading from CSV to make sorting simpler<br />
 Use of Lists and Dictionaries, for the ease and efficiency of retriving items.<br />
 In my first implementation for getting the data, I used two dictionaries to store them.<br />
 But this was heavily reliant on the fact that there will always be two device IDs.<br />
