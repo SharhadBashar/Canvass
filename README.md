@@ -32,3 +32,4 @@ In my first implementation for getting the data, I used two dictionaries to stor
 But this was heavily reliant on the fact that there will always be two device IDs.<br />
 So I implemented the method above, which is more dynamic.<br />
 But I left my first implementation below to show my initial thought process, and the fact that I can manipulate dictionaries.<br />
+I left in the print statements commented out to show what i did for the testing phase of each function<br />
